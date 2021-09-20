@@ -8,3 +8,6 @@ Disclaimer, projek ini dibuat untuk keperluan Skripsi
 - JWT
 - Netflix Zuul
 - Netflix Eureka
+
+## Gambaran Umum
+![Gambaran Umum](https://github.com/raviMukti/microservice-spring/blob/master/microservice-architecture.png)
