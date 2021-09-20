@@ -5,3 +5,6 @@ Disclaimer, projek ini dibuat untuk keperluan Skripsi
 - Spring
 - Apache Kafka
 - PostgreSQL
+- JWT
+- Netflix Zuul
+- Netflix Eureka
